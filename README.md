@@ -15,3 +15,26 @@ To get started with the project, follow these steps:
 ```bash
 git clone https://github.com/laslande24/Python-Flet-TodoList.git
 cd your-project
+
+
+### 2. Set Up a Virtual Environment (Optional but Recommended)
+
+python -m venv venv
+
+Activate the virtual environment:
+
+    On Windows:
+```bash
+venv\Scripts\activate
+
+    On macOS/Linux:
+```bash
+source venv/bin/activate
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+
+### 4. Run the Application
+```bash
+python advanced-to-do-app.py

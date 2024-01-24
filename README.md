@@ -31,10 +31,10 @@ venv\Scripts\activate
 
 source venv/bin/activate
 
-### 3. Install Dependencies
+3. Install Dependencies
 
 pip install -r requirements.txt
 
-### 4. Run the Application
+4. Run the Application
 
 python advanced-to-do-app.py
